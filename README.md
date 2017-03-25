@@ -3,4 +3,4 @@ Pirates always get their first choice P.E. class. That being said, it is highly 
 
 Simply enter the desired information, start the Python script the night before, and ensure that your computer doesn't go to sleep. Use at your own risk. 
 
-This script is a work in progress. It is currently sends synchronous requests with a timeout. This is not that great. Asynchronous requests are planned. 
+This script is a work in progress. It currently sends synchronous requests with a timeout, which is not that great. Asynchronous requests are planned. 
